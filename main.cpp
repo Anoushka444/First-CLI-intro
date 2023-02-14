@@ -3,7 +3,7 @@
 
 using namespace std;
 
-
+int main(){
 int i, a[10];
 
 for(i=0;i<11;i++)
@@ -14,3 +14,4 @@ for(auto i :a)
 {
 cout<<i;
 }
+return 0;}
